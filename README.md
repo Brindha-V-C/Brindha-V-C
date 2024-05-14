@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brindha-v-c" alt="brindha-v-c" /></a> </p>
 
-- 🌱 I’m currently learning **Bits and bytes of Computer Networking,Linux**
+- 🌱 I’m currently learning **Computer Networking,Linux**
 
-- 🤝 I’m looking for help with **Hybrid data compression**
+
 
 - 📫 How to reach me **brindhavc15@gmail.com**
 
